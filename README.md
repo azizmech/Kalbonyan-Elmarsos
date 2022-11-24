@@ -23,17 +23,17 @@
 <br />
 - ## Programming foundations path and HTML and CSS
 
-    - [✓] `Done` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
-    - [✓] `Done` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
+    - [✓] `Done` ` 2h 6m 40s`  - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
+    - [✓] `Done` ` 2h 4m 44s`  - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
     - [✓] `Done` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](01-Linkedin-Learning/-03-Programming-Foundation-Object-Oriented-Design/)
     - [✓] `Done` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](01-Linkedin-Learning/-04-Programming-Foundations-Data-Structures/)
     - [✓] `Done` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms/)
     - [✓] `Done` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns/)
     - [✓] `Done` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases/)
     - [✓] `Done` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
-    - [✓] `Done` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
-    - [✓] `Done` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
-    - [✓] `Done` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
+    - [✓] `Done` ` 53m 51s`    - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
+    - [✓] `Done` ` 2h 11m `    - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
+    - [✓] `Done` ` 37h 30m `   - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
 
     <br />
 
